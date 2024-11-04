@@ -71,7 +71,7 @@ https://github.com/DuckyTeam/Discord-buildpack-imagemagick
 Discord/nodejs
 ```
 
-[ railwayapp deploy](https://www.railway appcdn.com/deploy/button.svg)](https://discord.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD2/)
+[ railwayapp deploy](https://www.railway appcdn.com/deploy/button.svg)](https://railway.com/deploy?template=https://github.com/DG anime/master Bot-MD2/)
 
 # Install Manually 👇
 ## `Requirements`
