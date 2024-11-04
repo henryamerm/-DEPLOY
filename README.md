@@ -1,4 +1,4 @@
-# Personal Site
+ok# Personal Site
 oki![IMG-20240827-WA0098](https://github.com/user-attachments/assets/bd90738d-0dc4-4a25-9a47-468287cb3c6c)
 ii<h1 alig.Anime Master<br></h1>
 <p align="center">
@@ -71,7 +71,7 @@ https://github.com/DuckyTeam/Discord-buildpack-imagemagick
 Discord/nodejs
 ```
 
-[ discord deploy](https://www.Discordcdn.com/deploy/button.svg)](https://discord.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD2/)
+[ railwayapp deploy](https://www.railway appcdn.com/deploy/button.svg)](https://discord.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD2/)
 
 # Install Manually 👇
 ## `Requirements`
