@@ -71,7 +71,7 @@ https://github.com/DuckyTeam/Discord-buildpack-imagemagick
 Discord/nodejs
 ```
 
-[ replitapp deploy](https://www.railway appcdn.com/deploy/button.svg)](https://railway.com/deploy?template=https://github.com/DG anime/master Bot-MD2/)
+[ replitapp deploy](https://www.replitsappcdn.com/deploy/button.svg)](https://railway.com/deploy?template=https://github.com/DG anime/master Bot-MD2/)
 
 # Install Manually 👇
 ## `Requirements`
